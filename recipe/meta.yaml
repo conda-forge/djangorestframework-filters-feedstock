@@ -1,5 +1,5 @@
 {% set name = "djangorestframework-filters" %}
-{% set version = "1.0.0.dev0" %}
+{% set version = "1.0.0.dev2" %}
 
 package:
   name: {{ name|lower }}
