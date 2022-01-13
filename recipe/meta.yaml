@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: d53692f9f0dfcdc1df4e890787f7212c3602476b85faffdefec02e2bc386c5b6
+  sha256: ef84527e3427434d54228825b53a35098c8633c1e77b71d06b79597b749ea3f2
 
 build:
   noarch: python
@@ -39,5 +39,3 @@ about:
 extra:
   recipe-maintainers:
     - mxr-conda
-    - rluria14
-    - oblute
